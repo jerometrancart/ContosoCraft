@@ -16,3 +16,26 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.card-column .card-body {
+    height: 100px;
+    font-family: "Nunito", sans-serif;
+    background: #fbfafd;
+}
+
+.card-column .card-img {
+    height: 330px;
+    vertical-align: bottom;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .8;
+}
+
+.modal .card-img {
+    height: 500px;
+    vertical-align: bottom;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
