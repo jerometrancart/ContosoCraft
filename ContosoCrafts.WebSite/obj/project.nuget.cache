@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6HNkG4VVlsQ1h4sGd6I0MMB1WrYoybAXOBRcK8aEVrsg4r6iifQn6SsdzmKNyzPJ2GFQEqBfbuDCEcPIPFrvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jerom\\source\\repos\\ASP.Net_Core\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerom\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\jerom\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\jerom\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\jerom\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
